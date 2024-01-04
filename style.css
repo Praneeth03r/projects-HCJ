@@ -1,0 +1,42 @@
+body{
+    background:url("image.jpg");
+    
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    
+    /* background-color: rgb(65, 225, 121);
+    border-style: inset;
+    border-color: black; */
+}
+
+div *{
+    color: rgb(71, 165, 42);
+}
+h1{
+    /* font-family: 'Press Start 2P'; */
+    color: yellow;
+    text-shadow: 1px -1px 0px gray ;
+    /* background: rgb(255, 255, 255); */
+}
+h1:hover{
+    box-shadow: 5px 5px  yellowgreen;
+}
+h3{
+    color: rgb(44, 42, 165);
+}
+p{
+    color: yellow;
+}
+label{
+    color:pink;
+}
+textarea{
+    color: black;
+    background-color: yellow;
+    border-radius:20px;
+    padding:10px;
+    border-color:gold;
+    border-style:inset;
+}

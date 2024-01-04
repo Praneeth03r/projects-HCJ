@@ -1,0 +1,33 @@
+body{
+    background-color:pink;
+    
+}
+#box1{
+    width:150px;
+    height: 100px;
+    background-color: red;
+    font-size: 30px;
+    text-align: center;
+
+    animation: mySlide;
+    animation-duration: 4s;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+
+}
+
+@keyframes mySlide{
+    from{margin-left: 100%;}
+    to{margin-left: 0%;}
+}
+ul{
+    
+    color: blue;
+    padding: 10px;
+}
+p{
+    padding: 10px;
+}
+li:nth-child(2n){
+    background: yellow;
+}
