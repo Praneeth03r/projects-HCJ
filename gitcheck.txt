@@ -2,3 +2,15 @@ Hello praneeth Welcome to git classes
 Thanks for practicing git
 Nice
 this is the last line i am adding
+
+
+I have face an error when pushing the code to the remote repo 
+fatal error 
+
+i didn't get any proper idea about it 
+
+token // permission
+
+some are using token 
+some are using removing the origin
+
